@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウダウダウダ",
+  "base_artist": "かいりきベア",
+  "createdAt": "2026-02-12T12:26:44.975300Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウダウダウダ",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ウダウダウダ_かいりきベア.txt"
+    }
+  ]
+}
